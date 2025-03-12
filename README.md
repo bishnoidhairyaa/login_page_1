@@ -61,7 +61,7 @@ SOFTWARE.
 🤝 Contribution
 💡 Want to improve this project? Feel free to fork, open issues, and submit pull requests. Let's make it even better together! 🚀
 
-📧 Contact: GitHub Profile
+📧 Contact: bishnoidhairyaa2008@outlook.com
 
 📌 Steps to Upload on GitHub
 1️⃣ Create a new repository on GitHub: GitHub New Repository
@@ -76,4 +76,4 @@ git branch -M main
 git remote add origin https://github.com/bishnoidhairyaa/glassmorphism-login.git
 git push -u origin main
 
-Made with ❤️ by @bishnoidhairyaa
+Made with ❤️ by Dhairya
