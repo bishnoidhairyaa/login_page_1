@@ -1,36 +1,25 @@
-# ✨ Glassmorphism Login Page  
+✨ Glassmorphism Login Page
+A modern and stylish Login Page with a Glassmorphism UI effect, designed using HTML & CSS. The page features a responsive layout, interactive UI elements, and a blurred glass background effect.
 
-A **modern and stylish Login Page** with a **Glassmorphism UI effect**, designed using **HTML & CSS**. The page features a **responsive layout**, **interactive UI elements**, and a **blurred glass background effect**.
+![Screenshot 2025-03-12 211056](https://github.com/user-attachments/assets/38fa817e-159c-4e33-8265-7555a82e65ca)
 
-![image](https://github.com/user-attachments/assets/362134ea-0e62-4f2d-a091-2b2f8745b437)
+🚀 Features
+✔ Responsive Design – Works on all devices 📱💻
+✔ Glassmorphism UI – Blurred, frosted glass effect ✨
+✔ Interactive Elements – Hover & focus animations 🎨
+✔ Custom Font – Uses Poppins for a modern look 🖋️
+✔ "Remember Me" & "Forgot Password" Options 🔒
 
----
-
-## 🚀 Features  
-
-✔ **Responsive Design** – Works on all devices 📱💻  
-✔ **Glassmorphism UI** – Blurred, frosted glass effect ✨  
-✔ **Interactive Elements** – Hover & focus animations 🎨  
-✔ **Custom Font** – Uses **Poppins** for a modern look 🖋️  
-✔ **"Remember Me" & "Forgot Password" Options** 🔒  
-
----
-
-## 📂 Project Structure  
-
-/glassmorphism-login
+📂 Project Structure
+/ glassmorphism-login
 │── index.html # Main HTML file
 │── style.css # Stylesheet file
 │── img.jpg # Background Image
 │── LICENSE # MIT License
 │── README.md # Project Documentation
 
----
-
-## 📜 Installation & Usage  
-
-1️⃣ **Clone the Repository**  
-```sh
+📜 Installation & Usage
+1️⃣ Clone the Repository
 git clone https://github.com/bishnoidhairyaa/glassmorphism-login.git
 cd glassmorphism-login
 
@@ -46,10 +35,45 @@ This project implements the Glassmorphism UI trend, which gives the login page a
 ✅ CSS3 – Styling & Animations
 ✅ Google Fonts – Poppins Font
 ✅ Boxicons – Icon Library
+📜 License
+MIT License
+
+Copyright (c) 2025 bishnoidhairyaa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 🤝 Contribution
 💡 Want to improve this project? Feel free to fork, open issues, and submit pull requests. Let's make it even better together! 🚀
 
-📧 Contact: bishnoidhairyaa2008@outlook.com
+📧 Contact: GitHub Profile
 
-Made with ❤️ by https://github.com/bishnoidhairyaa
+📌 Steps to Upload on GitHub
+1️⃣ Create a new repository on GitHub: GitHub New Repository
+2️⃣ Set the repository name: glassmorphism-login
+3️⃣ Initialize with a README (or upload this one)
+4️⃣ Push your project using:
+
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/bishnoidhairyaa/glassmorphism-login.git
+git push -u origin main
+
+Made with ❤️ by @bishnoidhairyaa
